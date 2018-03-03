@@ -1,0 +1,48 @@
+[submodule "2017-2018/Rick-And-Morty-Hide-and-Meeseek"]
+	path = 2017-2018/Rick-And-Morty-Hide-and-Meeseek
+	url = https://github.com/Yaryhus/Rick-And-Morty-Hide-and-Meeseek.git
+[submodule "2017-2018/BombermanGame"]
+	path = 2017-2018/BombermanGame
+	url = https://github.com/rgastonv/BombermanGame.git
+[submodule "2017-2018/Doors"]
+	path = 2017-2018/Doors
+	url = https://github.com/FranVadillo/Doors.git
+[submodule "2017-2018/PACMANVS"]
+	path = 2017-2018/PACMANVS
+	url = https://github.com/alvarete212/PACMANVS.git
+[submodule "2017-2018/HundirLaFlota"]
+	path = 2017-2018/HundirLaFlota
+	url = https://github.com/Jodacam/HundirLaFlota.git
+[submodule "2017-2018/Snake-Battle-Revolution"]
+	path = 2017-2018/Snake-Battle-Revolution
+	url = https://github.com/elshuck/Snake-Battle-Revolution.git
+[submodule "2017-2018/Sagitpawn-s"]
+	path = 2017-2018/Sagitpawn-s
+	url = https://github.com/JorgeMS05/Sagitpawn-s.git
+[submodule "2017-2018/PracticaRedes3enraya"]
+	path = 2017-2018/PracticaRedes3enraya
+	url = https://github.com/MiguelAngelGalazSanchez/PracticaRedes3enraya.git
+[submodule "2017-2018/juegoenred"]
+	path = 2017-2018/juegoenred
+	url = https://github.com/PepeSegade/juegoenred.git
+[submodule "2017-2018/PracticaJuegosEnRed"]
+	path = 2017-2018/PracticaJuegosEnRed
+	url = https://github.com/AngeelBG/PracticaJuegosEnRed.git
+[submodule "2017-2018/proyecto_juegos_en_red"]
+	path = 2017-2018/proyecto_juegos_en_red
+	url = https://github.com/alber0905/proyecto_juegos_en_red.git
+[submodule "2017-2018/Love-Letter-Online"]
+	path = 2017-2018/Love-Letter-Online
+	url = https://github.com/svalverdet/Love-Letter-Online.git
+[submodule "2017-2018/Smash-Run"]
+	path = 2017-2018/Smash-Run
+	url = https://github.com/PabloSancheztr/Smash-Run.git
+[submodule "2017-2018/Arkanoid-Online"]
+	path = 2017-2018/Arkanoid-Online
+	url = https://github.com/cruzIago/Arkanoid-Online.git
+[submodule "2017-2018/Juegos-en-Red"]
+	path = 2017-2018/Juegos-en-Red
+	url = https://github.com/lbarretop/Juegos-en-Red.git
+[submodule "2017-2018/Raider-Oasis"]
+	path = 2017-2018/Raider-Oasis
+	url = https://github.com/vmpalmamorales/Raider-Oasis.git
